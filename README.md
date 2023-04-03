@@ -5,7 +5,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vinicius-dev/)
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571997335956)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVinicius&show_icons=true&theme=radical)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVMB&show_icons=true&theme=radical)
 
 ## Tecnologias que eu utilizo 
 <div style="display: inline_block"><br/>
