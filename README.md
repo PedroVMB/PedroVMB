@@ -20,5 +20,5 @@ Estudante de Ciência da Computação e Apaixonado por tecnologia, ministro pale
 
 ### Enfase em:
 - [BackEnd - ASP.NET, Java, Spring Boot, Python e Node.JS]
-- [Banco de Dados - PostgreSQL, SQL SERVER, MySQL]
+- [Banco de Dados - PostgreSQL, SQL SERVER, MySQL, MongoDB]
 - [FrontEnd - Html 5, css 3, JavaScript]
