@@ -29,10 +29,11 @@ Além do desenvolvimento, também atuo como palestrante e ministrante de minicur
 
 ## 🔧 Áreas de Atuação
 
-- **Back-End:** ASP.NET Core, Java com Spring Boot, Python, Node.js, Golang  
+- **Back-End:** ASP.NET Core, Java com Spring Boot, Python com Django e Flask, Node.js, Golang  
 - **Banco de Dados:** PostgreSQL, SQL Server, MySQL, MongoDB  
 - **Front-End:** HTML5, CSS3, JavaScript, TypeScript, React, React Native, Next.js, Angular, WebForms, Razor, Blazor  
 - **DevOps & Versionamento:** Git, TFS, CI/CD
+- **Automações:** Maker, Ply, Selenium, PyAutoGui
 
 ---
 
